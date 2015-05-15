@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+puts "Booting Bundler"
+
+require 'bundler/setup'
+
+puts "Booted..."
